@@ -3,23 +3,17 @@
   <img src="banner.png" alt="Luiz Augusto Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 </p>
 
-<!-- 💬 Cabeçalho estável (linhas curtas = sem tremedeira) -->
-<h1 align="center">
-  <!-- Linha 1: PT-BR -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&duration=2200&pause=900&center=true&vCenter=true&width=900&color=00BFFF&color2=4169E1&lines=Ol%C3%A1%2C+eu+sou+Luiz+Augusto+%F0%9F%92%BB" alt="Olá, eu sou Luiz Augusto" />
-</h1>
+<!-- 💬 Cabeçalho em GIF (sem tremedeira) -->
+<p align="center">
+  <img src="typing-greeting.gif" alt="Olá/Hola/Hello, eu sou Luiz Augusto" width="900">
+</p>
 
-<!-- 🌐 Idiomas + Linha 2 com 3 idiomas (apenas as frases pedidas) -->
+<!-- 🌐 Idiomas e função (3 idiomas em GIF) -->
 <p align="center">
   <b>🌍 PT-BR</b> • <b>ES</b> • <b>EN</b>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&duration=2100&pause=800&center=true&vCenter=true&width=900&color=00BFFF&color2=4169E1&lines=Desenvolvedor+Full+Stack+%E2%9A%A1+%7C+Integra%C3%A7%C3%A3o+de+IA;Desarrollador+Full+Stack+%E2%9A%A1+%7C+Integraci%C3%B3n+de+IA;Full+Stack+Developer+%E2%9A%A1+%7C+AI+Integration" alt="Full Stack / IA em 3 idiomas" />
-</p>
-
-<!-- Linha 3 (fixa, sem tradução — mantém seu contexto técnico sem tremor) -->
-<p align="center">
-  <b>AI Integration · Python · IoT · Data · Web</b>
+  <img src="typing-role.gif" alt="Full Stack / IA em 3 idiomas" width="900">
 </p>
 
 ---
