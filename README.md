@@ -1,62 +1,32 @@
-<!-- 🌟 Banner com estilo -->
+<!-- 🌟 Banner com estilo e título animado -->
 <p align="center">
   <img src="banner.png" alt="Luiz Augusto Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 </p>
 
-<!-- 🔹 Barra de separação com mesmo degradê do banner -->
-<p align="center">
-  <img alt="gradient-separator" width="100%" height="6"
-       src="https://singlecolorimage.com/get/000000/1x1"
-       style="display:block; border:0; outline:none; width:100%; height:6px; background: linear-gradient(90deg,#00F7FF 0%, #00B7FF 50%, #0077FF 100%); border-radius: 999px;" />
-</p>
-
-<!-- ✨ Título animado com cor igual ao banner e emoji de programação -->
 <h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Luiz+Augusto+%F0%9F%92%BB;Full+Stack+Developer+%E2%9A%A1;IA+%7C+Python+%7C+Web+%7C+Data+%7C+IoT"
-    alt="Typing SVG (cor e emoji)"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Olá%2C+eu+sou+Luiz+Augusto+💻;Full+Stack+Developer+⚡;AI+Integration+%7C+Python+%7C+IoT+%7C+Data+%7C+Web" alt="Typing SVG" />
 </h1>
-
-<!-- 🔁 Fallback estático com degradê (se o serviço de typing estiver fora) -->
-<p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="900" height="60" role="img" aria-label="Olá, eu sou Luiz Augusto 💻" style="max-width:100%;">
-    <defs>
-      <linearGradient id="gradLuiz" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%"   stop-color="#00F7FF"/>
-        <stop offset="50%"  stop-color="#00B7FF"/>
-        <stop offset="100%" stop-color="#0077FF"/>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-family="Fira Code, Consolas, monospace" font-size="32"
-          fill="url(#gradLuiz)">
-      Olá, eu sou Luiz Augusto 💻
-    </text>
-  </svg>
-</p>
 
 ---
 
 <!-- 🧠 Badges de Tecnologias -->
 <p align="center">
+  <!-- Principais linguagens -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+  <!-- Ferramentas e versionamento -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+
+  <!-- Temas de atuação -->
+  <img src="https://img.shields.io/badge/Inteligência%20Artificial-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/IoT-00B5E2?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-4CAF50?style=for-the-badge&logo=google-analytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Análise%20de%20Dados-4CAF50?style=for-the-badge&logo=google-analytics&logoColor=white"/>
 </p>
-
-
-
-<h1 align="center">👋 Olá, eu sou o Luiz Augusto</h1>
-<p align="center"><b>Full Stack Developer · AI Integration</b></p>
-
 
 ---
 
@@ -93,6 +63,64 @@
 
 ---
 
+## 💎 Projetos em Destaque
+
+<div align="center">
+
+### 🔹 Ultra Premium – Finanças e Dividendos
+Planilha + Dashboard (Excel/Python) para acompanhar patrimônio, dividendos (estilo Barsi), metas e simulações com inflação/CDI.
+  
+[🔗 Repositório](https://github.com/luizaugustofsdev/ultra-premium-financas) • [📊 Demo (imgs)](#)  
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Dashboards-0A66C2?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+---
+
+### 🔹 Bot WhatsApp – Ações em Promoção
+Bot que monitora mercado (B3) e envia candidatos a “preço bom” (screeners + filtros) direto no WhatsApp.
+  
+[🔗 Repositório](https://github.com/luizaugustofsdev/bot-whatsapp-acoes) • [▶️ Vídeo curto](#)  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automação-6A5ACD?style=for-the-badge&logo=zap&logoColor=white"/>
+
+---
+
+### 🔹 Triunfo Sementes – Landing Page
+Landing institucional com foco em proposta de valor, CTA e captação de leads.
+  
+[🌐 Demo](#) • [🔗 Repositório](https://github.com/luizaugustofsdev/triunfo-sementes-landing)  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+---
+
+### 🔹 OTT / Educação Física – Planos de Aula
+Conjunto de planos de aula (Voleibol/Basquete) com foco em execução, avaliação e materiais.
+  
+[📄 PDF](#) • [🔗 Repositório](https://github.com/luizaugustofsdev/ott-planos-aula)  
+<img src="https://img.shields.io/badge/Planejamento-00B5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Did%C3%A1tica-00B5E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Esportes-4CAF50?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🎯 Interesses Pessoais
+
+- 🧠 **IA aplicada** a automação, copilots, análise de dados e educação (militar e civil).  
+- 📈 **Investimentos** no estilo Barsi (dividendos), FIIs e portfolio trackers próprios.  
+- 🔧 **Hardware/PC** (montagens high-end, resfriamento, diagnósticos e tunning).  
+- 📡 **IoT & Sensores** integrando dados do mundo real em dashboards e APIs.  
+- 🎮 **Games** e eSports: foco em performance, comunicação e trabalho em equipe.  
+- 🌎 **Idiomas**: evolução contínua em Inglês e Espanhol para contexto tech/global.  
+- 🧭 **Rotina, disciplina e liderança** — mindset militar aplicado a projetos tech.
+
+---
+
 ## 📈 Estatísticas
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=luizaugustofsdev&show_icons=true&theme=radical)](https://github.com/luizaugustofsdev)  
@@ -105,5 +133,3 @@
 - 💼 LinkedIn: [linkedin.com/in/luizaugustofsdev](https://linkedin.com/in/luizaugustofsdev)  
 - 💻 GitHub: [github.com/luizaugustofsdev](https://github.com/luizaugustofsdev)  
 - ✉️ Email: **luizaugustofsdev@gmail.com**
-
----
