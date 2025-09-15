@@ -118,7 +118,7 @@ Conjunto de planos de aula (Voleibol/Basquete) com foco em execução, avaliaç�
 
 ---
 
-## 🎯 Interesses Pessoais
+## 🎯 Motivações Pessoais
 
 - 🧠 **IA aplicada** a automação, copilots, análise de dados e educação (militar e civil).  
 - 📈 **Investimentos** no estilo Barsi (dividendos), FIIs e portfolio trackers próprios.  
@@ -132,19 +132,16 @@ Conjunto de planos de aula (Voleibol/Basquete) com foco em execução, avaliaç�
 
 ## 📈 Estatísticas
 
-<!-- Card 1: Stats -->
-<p align="center">
-  <a href="https://github.com/luizaugustofsdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=luizaugustofsdev&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats"/>
-  </a>
-</p>
+<!-- Stats e Top Langs alinhados à ESQUERDA -->
+<a href="https://github.com/luizaugustofsdev">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=luizaugustofsdev&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats"/>
+</a>
 
-<!-- Card 2: Top Languages (sem título 'Most Used Languages') -->
-<p align="center">
-  <a href="https://github.com/luizaugustofsdev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaugustofsdev&layout=compact&theme=radical&hide_title=true&card_width=420&langs_count=6" alt="Top Languages"/>
-  </a>
-</p>
+<a href="https://github.com/luizaugustofsdev">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaugustofsdev&layout=compact&theme=radical&hide_title=true&card_width=420&langs_count=6" alt="Top Languages"/>
+</a>
+
+<br clear="both"/>
 
 > 💡 Dica: se aparecer “No languages data”, é normal enquanto os repositórios ainda estão vazios. Assim que você subir código, essa carta preenche sozinha.
 
