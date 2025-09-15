@@ -3,9 +3,9 @@
   <img src="banner.png" alt="Luiz Augusto Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 </p>
 
-<!-- 💬 Cabeçalho estável (sem tremedeira) -->
+<!-- 💬 Cabeçalho com azul oceano degradê -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&center=true&vCenter=true&width=800&color=00F7FF&lines=Olá%2C+eu+sou+Luiz+Augusto+💻;Full+Stack+Developer+⚡;AI+Integration+%7C+Python+%7C+IoT+%7C+Data+%7C+Web" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&center=true&vCenter=true&width=800&color=00BFFF&color2=4169E1&lines=Olá%2C+eu+sou+Luiz+Augusto+💻;Full+Stack+Developer+⚡;AI+Integration+%7C+Python+%7C+IoT+%7C+Data+%7C+Web" alt="Typing SVG">
 </h1>
 
 ---
@@ -134,3 +134,4 @@ Conjunto de planos de aula (Voleibol/Basquete) com foco em execução, avaliaç�
 - 💼 LinkedIn: [linkedin.com/in/luizaugustofsdev](https://linkedin.com/in/luizaugustofsdev)  
 - 💻 GitHub: [github.com/luizaugustofsdev](https://github.com/luizaugustofsdev)  
 - ✉️ Email: **luizaugustofsdev@gmail.com**
+
