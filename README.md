@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="banner.png" alt="Luiz Augusto Banner" width="100%">
+</p>
+
+<p align="center">
   <img src="banner.png" alt="Luiz Augusto — Full Stack Developer • AI Integration" width="100%">
 </p>
 
