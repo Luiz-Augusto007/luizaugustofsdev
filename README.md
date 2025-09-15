@@ -3,17 +3,23 @@
   <img src="banner.png" alt="Luiz Augusto Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 </p>
 
-<!-- 💬 Cabeçalho estável (sem tremedeira) -->
+<!-- 💬 Cabeçalho estável (linhas curtas = sem tremedeira) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&duration=2400&pause=900&center=true&vCenter=true&width=900&color=00BFFF&color2=4169E1&lines=Ol%C3%A1%2C+eu+sou+Luiz+Augusto+%F0%9F%92%BB" alt="Typing: Olá, eu sou Luiz Augusto" />
+  <!-- Linha 1: PT-BR -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&duration=2200&pause=900&center=true&vCenter=true&width=900&color=00BFFF&color2=4169E1&lines=Ol%C3%A1%2C+eu+sou+Luiz+Augusto+%F0%9F%92%BB" alt="Olá, eu sou Luiz Augusto" />
 </h1>
 
-<!-- 🌐 Linha de idiomas + segundo typing (3 idiomas) -->
+<!-- 🌐 Idiomas + Linha 2 com 3 idiomas (apenas as frases pedidas) -->
 <p align="center">
   <b>🌍 PT-BR</b> • <b>ES</b> • <b>EN</b>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&center=true&vCenter=true&width=900&color=00BFFF&color2=4169E1&lines=Desenvolvedor+Full+Stack+%E2%9A%A1+%7C+Integra%C3%A7%C3%A3o+de+IA;Desarrollador+Full+Stack+%E2%9A%A1+%7C+Integraci%C3%B3n+de+IA;Full+Stack+Developer+%E2%9A%A1+%7C+AI+Integration" alt="Typing multilíngue" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&duration=2100&pause=800&center=true&vCenter=true&width=900&color=00BFFF&color2=4169E1&lines=Desenvolvedor+Full+Stack+%E2%9A%A1+%7C+Integra%C3%A7%C3%A3o+de+IA;Desarrollador+Full+Stack+%E2%9A%A1+%7C+Integraci%C3%B3n+de+IA;Full+Stack+Developer+%E2%9A%A1+%7C+AI+Integration" alt="Full Stack / IA em 3 idiomas" />
+</p>
+
+<!-- Linha 3 (fixa, sem tradução — mantém seu contexto técnico sem tremor) -->
+<p align="center">
+  <b>AI Integration · Python · IoT · Data · Web</b>
 </p>
 
 ---
@@ -132,8 +138,21 @@ Conjunto de planos de aula (Voleibol/Basquete) com foco em execução, avaliaç�
 
 ## 📈 Estatísticas
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=luizaugustofsdev&show_icons=true&theme=radical)](https://github.com/luizaugustofsdev)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizaugustofsdev&layout=compact&theme=radical)](https://github.com/luizaugustofsdev)
+<!-- Card 1: Stats -->
+<p align="center">
+  <a href="https://github.com/luizaugustofsdev">
+    <img src="https://github-readme-stats.vercel.app/api?username=luizaugustofsdev&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats"/>
+  </a>
+</p>
+
+<!-- Card 2: Top Languages (sem título 'Most Used Languages') -->
+<p align="center">
+  <a href="https://github.com/luizaugustofsdev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaugustofsdev&layout=compact&theme=radical&hide_title=true&card_width=420&langs_count=6" alt="Top Languages"/>
+  </a>
+</p>
+
+> 💡 Dica: se aparecer “No languages data”, é normal enquanto os repositórios ainda estão vazios. Assim que você subir código, essa carta preenche sozinha.
 
 ---
 
@@ -142,4 +161,3 @@ Conjunto de planos de aula (Voleibol/Basquete) com foco em execução, avaliaç�
 - 💼 LinkedIn: [linkedin.com/in/luizaugustofsdev](https://linkedin.com/in/luizaugustofsdev)  
 - 💻 GitHub: [github.com/luizaugustofsdev](https://github.com/luizaugustofsdev)  
 - ✉️ Email: **luizaugustofsdev@gmail.com**
-
