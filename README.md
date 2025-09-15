@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="banner.png" alt="Luiz Augusto Banner" width="100%" />
+![Luiz Augusto Banner](https://raw.githubusercontent.com/Luiz-Augusto007/luizaugustofsdev/main/banner.png)
 </p>
 
 <h1 align="center">👋 Olá, eu sou Luiz Augusto</h1>
