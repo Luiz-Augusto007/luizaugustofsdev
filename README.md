@@ -3,10 +3,18 @@
   <img src="banner.png" alt="Luiz Augusto Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 </p>
 
-<!-- 💬 Cabeçalho com azul oceano degradê -->
+<!-- 💬 Cabeçalho estável (sem tremedeira) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&center=true&vCenter=true&width=800&color=00BFFF&color2=4169E1&lines=Olá%2C+eu+sou+Luiz+Augusto+💻;Full+Stack+Developer+⚡;AI+Integration+%7C+Python+%7C+IoT+%7C+Data+%7C+Web" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&duration=2400&pause=900&center=true&vCenter=true&width=900&color=00BFFF&color2=4169E1&lines=Ol%C3%A1%2C+eu+sou+Luiz+Augusto+%F0%9F%92%BB" alt="Typing: Olá, eu sou Luiz Augusto" />
 </h1>
+
+<!-- 🌐 Linha de idiomas + segundo typing (3 idiomas) -->
+<p align="center">
+  <b>🌍 PT-BR</b> • <b>ES</b> • <b>EN</b>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&center=true&vCenter=true&width=900&color=00BFFF&color2=4169E1&lines=Desenvolvedor+Full+Stack+%E2%9A%A1+%7C+Integra%C3%A7%C3%A3o+de+IA;Desarrollador+Full+Stack+%E2%9A%A1+%7C+Integraci%C3%B3n+de+IA;Full+Stack+Developer+%E2%9A%A1+%7C+AI+Integration" alt="Typing multilíngue" />
+</p>
 
 ---
 
@@ -24,7 +32,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
   <!-- Temas de atuação -->
-  <img src="https://img.shields.io/badge/Inteligência%20Artificial-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Inteligência%20Artificial-1E90FF?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/IoT-00B5E2?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Análise%20de%20Dados-4CAF50?style=for-the-badge&logo=google-analytics&logoColor=white"/>
 </p>
