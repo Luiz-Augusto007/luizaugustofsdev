@@ -1,10 +1,10 @@
-![Luiz Augusto Banner](https://raw.githubusercontent.com/Luiz-Augusto007/luizaugustofsdev/main/banner.png)
 <p align="center">
-  ![Luiz Augusto Banner](banner.png)
+  <img src="banner.png" alt="Luiz Augusto — Full Stack Developer • AI Integration" width="100%">
 </p>
 
-<h1 align="center">👋 Olá, eu sou Luiz Augusto</h1>
-<h3 align="center">Full Stack Developer · AI Integration</h3>
+<h1 align="center">👋 Olá, eu sou o Luiz Augusto</h1>
+<p align="center"><b>Full Stack Developer · AI Integration</b></p>
+
 
 ---
 
