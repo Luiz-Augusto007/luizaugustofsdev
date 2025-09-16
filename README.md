@@ -3,18 +3,14 @@
   <img src="banner.png" alt="Luiz Augusto Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 </p>
 
-<!-- 💬 Saudação multilíngue -->
-<p align="center">
-  <img src="typing-greeting.gif" alt="Olá/Hola/Hello, eu sou Luiz Augusto 💻" width="900">
-</p>
+<!-- 💬 Saudação (PT/ES/EN) - curto, sem tremedeira -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2200&pause=900&center=true&vCenter=true&width=900&color=00BFFF&color2=4169E1&lines=Ol%C3%A1%2C+eu+sou+Luiz+Augusto+%F0%9F%92%BB;Hola%2C+soy+Luiz+Augusto+%F0%9F%92%BB;Hello%2C+I'm+Luiz+Augusto+%F0%9F%92%BB" alt="Saudação em 3 idiomas" />
+</h1>
 
-<!-- 🌐 Idiomas e função -->
+<!-- 🌐 Função (PT/ES/EN) - curto, sem tremedeira -->
 <p align="center">
-  <b>🌍 PT-BR</b> • <b>ES</b> • <b>EN</b>
-</p>
-
-<p align="center">
-  <img src="typing-role.gif" alt="Full Stack / IA em 3 idiomas 🧠" width="900">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2100&pause=800&center=true&vCenter=true&width=900&color=00BFFF&color2=4169E1&lines=Desenvolvedor+Full+Stack+%E2%9A%A1+%7C+Integra%C3%A7%C3%A3o+de+IA+%F0%9F%A7%A0;Desarrollador+Full+Stack+%E2%9A%A1+%7C+Integraci%C3%B3n+de+IA+%F0%9F%A7%A0;Full+Stack+Developer+%E2%9A%A1+%7C+AI+Integration+%F0%9F%A7%A0" alt="Função em 3 idiomas" />
 </p>
 
 ---
@@ -133,6 +129,7 @@ Conjunto de planos de aula (Voleibol/Basquete) com foco em execução, avaliaç�
 
 ## 📈 Estatísticas
 
+<!-- Stats e Top Langs alinhados à ESQUERDA -->
 <a href="https://github.com/luizaugustofsdev">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=luizaugustofsdev&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats"/>
 </a>
